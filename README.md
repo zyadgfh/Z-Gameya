@@ -41,4 +41,7 @@ __tests__/            اختبارات وحدة (17 اختباراً)
 - [ ] **Phase 4:** الإيراد (رسوم + إعلانات)
 - [ ] **Phase 5:** التثبيت والنشر على المتجرين
 
-> ⚠️ لإكمال الربط: أنشئ مشروع Supabase باسم `gameya` (أو أوقف/احذف مشروعاً مجانياً نشطاً — الحد الأقصى مشروعان)، ثم طبّق ملف `supabase/migrations/20261124000000_gameya_schema.sql` من SQL Editor، واملأ `.env`.
+## Supabase
+- المشروع: `gameya` — ref: `rsyxtqeyzumotknssuus` — المنطقة: eu-central-1
+- المخطط مطبّق (9 جداول + RLS + دالة `accept_invitation` + bucket `receipts`)
+- ملف `.env` المحلي يحتوي مفاتيح المشروع (غير مرفوع على Git)
